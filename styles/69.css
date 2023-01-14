@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header and navigation style */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 228px;
+}
+.nav-title{
+    font-weight: 700;
+font-size: 45px;
+}
+nav ul {
+    display: flex;
+}
+nav li {
+    list-style: none;
+    margin-left: 50px;
+}
+.Heading{
+    font-weight: 700;
+font-size: 64px;
+text-align: center;
+}
+.Paragraph{
+    font-weight: 400;
+font-size: 16px;
+text-align: center;
+}
+.Button{
+    height: 64px;
+    background: #FF900E;
+    border-radius: 8px;
+    margin: 50 870px;
+}
+.Button-text{
+    height: 23px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding: 50px;
+}
+/* bannar styles */
+
+.bannar{
+    height: 700px;
+    background: url(group-three-modern-architects.jpg);
+border-radius: 8px;
+margin: 50 240px;
+}
